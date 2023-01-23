@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  color: aliceblue;
+}
+nav a{
+text-decoration: none;
+color: rgb(227, 84, 18);
+margin-right: 80px;
+}
+nav {
+display: flex;
+padding: 30px;
+justify-content: space-between;
+}
